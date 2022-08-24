@@ -1,7 +1,6 @@
-
 #!/bin/bash
 #Script Variables
-HOST='174.138.184.18';
+HOST='174.138.190.54';
 USER='rfplusvi_abirmhbd';
 PASS='ab@@11rmhbd';
 DBNAME='rfplusvi_abirmhbd';
