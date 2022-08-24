@@ -1,4 +1,3 @@
-
 #!/bin/bash
 #Script Variables
 HOST='174.138.184.18';
@@ -738,4 +737,3 @@ install_stunnel
 install_rclocal
 install_iptables
 install_done
-
