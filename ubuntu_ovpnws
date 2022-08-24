@@ -2,9 +2,9 @@
 #!/bin/bash
 #Script Variables
 HOST='174.138.184.18';
-USER='rfplusvi_nishat';
-PASS='rfplusvi_nishat';
-DBNAME='rfplusvi_nishat';
+USER='rfplusvi_abirmhbd';
+PASS='ab@@11rmhbd';
+DBNAME='rfplusvi_abirmhbd';
 PORT_TCP='1194';
 PORT_UDP='53';
 
