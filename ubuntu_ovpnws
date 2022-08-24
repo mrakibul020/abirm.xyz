@@ -1,9 +1,10 @@
+
 #!/bin/bash
 #Script Variables
 HOST='174.138.190.54';
-USER='rfplusvi_abirmhbd';
-PASS='ab@@11rmhbd';
-DBNAME='rfplusvi_abirmhbd';
+USER='ksatunne_arafnet';
+PASS='ar@@@n65et';
+DBNAME='ksatunne_arafnet';
 PORT_TCP='1194';
 PORT_UDP='53';
 
@@ -737,3 +738,4 @@ install_stunnel
 install_rclocal
 install_iptables
 install_done
+
